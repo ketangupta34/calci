@@ -1,6 +1,8 @@
 #CLI calculator
-
 simple yet useful expression calculator for linux cli
+
+#installation
+`npm i clicalci -g`
 
 #USAGE
 1) Single query
