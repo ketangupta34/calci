@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var cal = require("./calci");
 // console.log(process.argv.length);
 if (process.argv.length == 2) {
@@ -7,9 +9,8 @@ if (process.argv.length == 2) {
 
 // var input = process.argv[2];
 
-
-for(var i=2; i<process.argv.length;i++){
-  cal.calculate(process.argv[i]);  
+for (var i = 2; i < process.argv.length; i++) {
+   cal.calculate(process.argv[i]);
 }
 // cal.working();
 // cal.calculate(input);
