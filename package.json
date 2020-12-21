@@ -1,5 +1,5 @@
 {
-   "name": "calci",
+   "name": "clicalci",
    "version": "1.0.0",
    "description": "CLI simple calculator",
    "main": "index.js",
