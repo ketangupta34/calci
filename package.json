@@ -1,15 +1,15 @@
 {
-  "name": "calci",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "stack-lifo": "^0.1.6"
-  }
+   "name": "calci",
+   "version": "1.0.0",
+   "description": "CLI simple calculator",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+   },
+   "author": "Ketan Gupta",
+   "license": "ISC",
+   "dependencies": {
+      "stack-lifo": "^0.1.6"
+   }
 }
