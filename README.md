@@ -5,8 +5,10 @@ simple yet useful expression calculator for linux cli
 `npm i clicalci -g`
 
 #USAGE
-1) Single query
-  `calci 1+2-1*3/4`
+On command line run
 
-2) Multiple query
-  `calci 1+2 2+3 3+4`
+1. Single query
+   `calci 1+2-1*3/4`
+
+2. Multiple query
+   `calci 1+2 2+3 3+4`
