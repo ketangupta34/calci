@@ -10,10 +10,6 @@ function isOperator(c) {
    return c == "+" || c == "-" || c == "/" || c == "*";
 }
 
-function getNumber(c) {
-   return c - "0";
-}
-
 function priority(sign) {
    switch (sign) {
       case "-":
